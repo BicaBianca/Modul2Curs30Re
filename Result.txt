@@ -1,0 +1,5 @@
+The shortest word is: bica
+The longest word is: grigorita
+The first word in alphabetical order is: adriana
+The last word in alphabetical order is: grigorita
+Total numbers of words is: 4
